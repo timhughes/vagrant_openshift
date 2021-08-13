@@ -1,5 +1,7 @@
 # Vagrant > Ansible > Openshift
 
+❗❗❗❗ Migrated to OKD https://github.com/timhughes/vagrant_ansible_okd4 ❗❗❗❗
+
 These instructions are based on https://docs.openshift.com/container-platform/4.4/installing/installing_bare_metal/installing-bare-metal.html
 
 I have built this as a learning experience and potential use as a playground
