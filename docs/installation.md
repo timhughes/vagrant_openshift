@@ -198,6 +198,7 @@ you downloaded.
     set okd-kernel fedora-coreos-32.20200629.3.0-live-kernel-x86_64
     set okd-initrd fedora-coreos-32.20200629.3.0-live-initramfs.x86_64.img
     set okd-image fedora-coreos-32.20200629.3.0-metal.x86_64.raw.xz
+    set okd-rootfs fedora-coreos-34.20210725.3.0-live-rootfs.x86_64.img
 
 
 ## The load-balancer system.
